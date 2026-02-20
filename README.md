@@ -1,6 +1,6 @@
-# Brisbane.Swift Website
+# Brisbane Cocoaheads Website
 
-🌐 https://brisbaneswift.org/
+🌐 https://brisbanecocoaheads.com/
 
 ## Requirements
 
